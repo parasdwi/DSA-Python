@@ -1,0 +1,6 @@
+Map is a function which takes 2 parameters and maps the second parameter to first and return the output.
+ex-
+    a= [1,5,6]
+    a=list(map(lambda x:x*x,a))
+    output-
+        [1,5,36]
